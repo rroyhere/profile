@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="w-full bg-bg-3 py-8 text-center text-xs">
       <span className="text-black">
-        © {new Date().getFullYear()} iyansr.id built with{' '}
+        © {new Date().getFullYear()} rroyhere.id built with{' '}
         <span role="img" aria-label="emoji">
           🔥
         </span>{' '}

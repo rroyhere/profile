@@ -9,13 +9,13 @@ type MetaProps = {
 };
 
 const Meta = ({
-  title = 'iyansr.id',
+  title = 'rroyhere.id',
   description,
-  url = 'https://iyansr.id',
+  url = 'https://rroyhere.id',
   image = 'https://avatars3.githubusercontent.com/u/42711013?s=460&v=4',
   keywords = 'iyansr, iyan saputra, programmer, react native developer, jasa programmer',
 }: MetaProps) => {
-  const titleExtended = `${title} | iyansr.id`;
+  const titleExtended = `${title} | rroyhere.id`;
 
   return (
     <Head>
